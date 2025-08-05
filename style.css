@@ -1,12 +1,19 @@
 * {
     padding: 0;
-    margin: 0;
+    /* margin: 20px; */
     box-sizing: border-box;
     font-family: YoungSerif-Regular;
 }
 
+body {
+    background-color: hsl(330, 100%, 98%);
+    width: 70%;
+    margin: auto;
+}
 .main-container {
-    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    margin: 40px 0;
 }
 
 .image img{
